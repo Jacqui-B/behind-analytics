@@ -113,7 +113,7 @@ class App extends Component {
 
         return (
             <div className="App">
-            <nav className= "nav-styles"> Jacquis Fave Veg Recipes... </nav>
+            <nav className= "nav-styles"> Jacqui's Fave Veg Recipes... </nav>
               
                 <form onSubmit={this.getRecipes}>
                     <input type="text" id="searchbar" placeholder="Search..." onChange={this.findRecipes} />

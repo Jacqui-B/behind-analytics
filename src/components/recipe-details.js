@@ -42,7 +42,7 @@ class Recipe extends Component {
     })
     return (
       <div>
-        <nav className= "nav-styles"> Jacquis Fave Veg Recipes! </nav>
+        <nav className= "nav-styles"> Jacqui's Fave Veg Recipes... </nav>
         <div className="row">
 
           <div className="col s12 m6" id="box-move">
