@@ -1,0 +1,72 @@
+.resize-details-img{
+    height: 780px;
+}
+
+#box-move {
+    padding-left: 80px;
+    padding-top: 15px;
+}
+
+#title-style{
+    padding-left: 25px;
+    font-family: sans-serif;
+    color: orange;
+    text-transform: uppercase;
+    display: inline-block;
+    
+  
+    
+
+}
+
+#box2 {
+margin-top: 22px;
+margin-right: 60px;
+height: 866px;
+ 
+}
+
+ol {
+    font-size:22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 40px;
+}
+
+p {
+
+font-size:22px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+margin-top: 10px;
+margin-left: 20px;
+
+}
+
+.recipe-steps a {
+
+    padding-left: 25px;
+    font-family: sans-serif;
+    color: orange;
+    text-transform: uppercase;
+    display: inline-block;
+    text-decoration: none;
+    
+   
+
+}
+
+a:hover {
+    color: palegoldenrod;
+     text-decoration: underline;
+}
+
+
+
+/*#nav-styles{
+  background-color: palegreen;
+  color: white; 
+  padding-left: 65px;
+  padding-top: 2px;
+  padding-bottom: 2px; 
+  margin-left: 14px;
+  
+}*/
